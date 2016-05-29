@@ -11,8 +11,8 @@
 *.DOCX diff=doc
 *.xls diff=xls
 *.xlsx diff=xls
-*.pptx diff=ppt
-*.ppt diff=ppt
+*.pptx diff=binary
+*.ppt diff=binary
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
