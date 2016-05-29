@@ -17,3 +17,10 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+#images
+*.png diff=img
+*.PNG diff=img
+*.jpg diff=img
+*.JPG diff=img
+*.jpeg diff=img
+*.JPEG diff=img
